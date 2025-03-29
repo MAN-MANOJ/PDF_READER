@@ -1,0 +1,17 @@
+{
+    "168": {
+        "text": "lOMoAR cPSD|26885763 \n \n168 | P a g e  \n \no Bluetooth shield \no Capacitive Touchpad Shield \n \nLet's discuss the shields that are listed above: \nEthernet shield \no The Ethernet shields are used to connect the Arduino board to the Internet. We need \nto mount the shield on the top of the specified Arduino board. \no The USB port will play the usual role to upload sketches on the board. \no The latest version of Ethernet shields consists of a micro SD card slot. The micro SD \ncard slot can be interfaced with the help of the SD card library. \no  \nThe Ethernet shield is shown below: \n \no We can also connect another shield on the top of the Ethernet shield. It means that we \ncan also mount two shields on the top of the Arduino board. \n \nXbee Shield \no We can communicate wirelessly with the Arduino board by using the Xbee Shield \nwith Zigbee. \no It reduces the hassle of the cable, which makes Xbee a wireless communication \nmodel. \no The Xbee wireless module allows us to communicate outdoor upto 300 feet and \nindoor upto 100 feet. \no The Xbee shield is shown below: \n",
+        "images": [
+            "extracted_results\\page_168_img_1.jpeg"
+        ],
+        "linked_text": {}
+    },
+    "172": {
+        "text": "lOMoAR cPSD|26885763 \n \n172 | P a g e  \n \no The Bluetooth shield can be used as a wireless module for transparent serial \ncommunication. \no It includes a serial Bluetooth module. D0 and D1 are the serial hardware ports in the \nBluetooth shield, which can be used to communicate with the two serial ports (from \nD0 to D7) of the Arduino board. \no We can install Groves through the two serial ports of the Bluetooth shield called a \nGrove connector. One Grove connector is digital, while the other is analog. \n \nThe Bluetooth shield is shown below: \n \no The communication distance of the Bluetooth shield is upto 10m at home without any \nobstacle in between. \n \nCapacitive Touchpad shield \no It has a touchpad interface that allows to integrate the Arduino board with the touch \nshield. \no The Capacitive touchpad shield consists of 12 sensitive touch buttons, which includes \n3 electrode connections and 9 capacitive touch pads. \no The capacitive shield is shown below: \n \no The board can work with the logic level of 3.3V or 5V. \no We can establish a connection to the Arduino project by touching the shield.  \n",
+        "images": [
+            "extracted_results\\page_172_img_1.jpeg",
+            "extracted_results\\page_172_img_2.jpeg"
+        ],
+        "linked_text": {}
+    }
+}
