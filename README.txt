@@ -28,7 +28,6 @@ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/pdf-extraction-app.git
 cd pdf-extraction-app
 
 2. Install Dependencies
